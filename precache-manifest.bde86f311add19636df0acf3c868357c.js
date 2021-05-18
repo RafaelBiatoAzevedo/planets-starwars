@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "246a1e66224a3f8292f1bb1efe718b10",
+    "revision": "f391b5c836901d6633768ddbffd40d1c",
     "url": "/planets-starwars/index.html"
   },
   {
-    "revision": "66a71475e9a6ecc6c4b5",
+    "revision": "d04e64cd5f1852353957",
     "url": "/planets-starwars/static/css/main.4301dd7a.chunk.css"
   },
   {
-    "revision": "ee4d5e3e930a93d3c5ea",
-    "url": "/planets-starwars/static/js/2.bcfdcb52.chunk.js"
+    "revision": "b3827f376c76a289c25d",
+    "url": "/planets-starwars/static/js/2.47c65f05.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/planets-starwars/static/js/2.bcfdcb52.chunk.js.LICENSE.txt"
+    "url": "/planets-starwars/static/js/2.47c65f05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66a71475e9a6ecc6c4b5",
-    "url": "/planets-starwars/static/js/main.920a1505.chunk.js"
+    "revision": "d04e64cd5f1852353957",
+    "url": "/planets-starwars/static/js/main.66f5a9ff.chunk.js"
   },
   {
     "revision": "5c4c56f7d17462ee5653",
@@ -34,5 +34,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "021c73526847c1257ae885a96f817b78",
     "url": "/planets-starwars/static/media/darthVaden.021c7352.jpg"
+  },
+  {
+    "revision": "ed2c53adb3d5433f2e21882158ba20dc",
+    "url": "/planets-starwars/static/media/header.ed2c53ad.jpg"
   }
 ]);

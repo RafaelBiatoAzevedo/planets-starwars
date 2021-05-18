@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/planets-starwars/static/css/main.4301dd7a.chunk.css",
-    "main.js": "/planets-starwars/static/js/main.920a1505.chunk.js",
-    "main.js.map": "/planets-starwars/static/js/main.920a1505.chunk.js.map",
+    "main.js": "/planets-starwars/static/js/main.66f5a9ff.chunk.js",
+    "main.js.map": "/planets-starwars/static/js/main.66f5a9ff.chunk.js.map",
     "runtime-main.js": "/planets-starwars/static/js/runtime-main.2bdad7b3.js",
     "runtime-main.js.map": "/planets-starwars/static/js/runtime-main.2bdad7b3.js.map",
-    "static/js/2.bcfdcb52.chunk.js": "/planets-starwars/static/js/2.bcfdcb52.chunk.js",
-    "static/js/2.bcfdcb52.chunk.js.map": "/planets-starwars/static/js/2.bcfdcb52.chunk.js.map",
+    "static/js/2.47c65f05.chunk.js": "/planets-starwars/static/js/2.47c65f05.chunk.js",
+    "static/js/2.47c65f05.chunk.js.map": "/planets-starwars/static/js/2.47c65f05.chunk.js.map",
     "index.html": "/planets-starwars/index.html",
-    "precache-manifest.0cdc06e8cea3da6ac5386db5eaa4034b.js": "/planets-starwars/precache-manifest.0cdc06e8cea3da6ac5386db5eaa4034b.js",
+    "precache-manifest.bde86f311add19636df0acf3c868357c.js": "/planets-starwars/precache-manifest.bde86f311add19636df0acf3c868357c.js",
     "service-worker.js": "/planets-starwars/service-worker.js",
     "static/css/main.4301dd7a.chunk.css.map": "/planets-starwars/static/css/main.4301dd7a.chunk.css.map",
-    "static/js/2.bcfdcb52.chunk.js.LICENSE.txt": "/planets-starwars/static/js/2.bcfdcb52.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/planets-starwars/static/media/darthVaden.021c7352.jpg"
+    "static/js/2.47c65f05.chunk.js.LICENSE.txt": "/planets-starwars/static/js/2.47c65f05.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/planets-starwars/static/media/darthVaden.021c7352.jpg",
+    "static/media/header.jpg": "/planets-starwars/static/media/header.ed2c53ad.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2bdad7b3.js",
-    "static/js/2.bcfdcb52.chunk.js",
+    "static/js/2.47c65f05.chunk.js",
     "static/css/main.4301dd7a.chunk.css",
-    "static/js/main.920a1505.chunk.js"
+    "static/js/main.66f5a9ff.chunk.js"
   ]
 }
