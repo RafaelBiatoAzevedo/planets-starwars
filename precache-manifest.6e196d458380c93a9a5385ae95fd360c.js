@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8b92f4e17a964413afb0bf113bac888",
+    "revision": "a2e8d64a1f90b8ae3c39a13a6ddf1672",
     "url": "/planets-starwars/index.html"
   },
   {
-    "revision": "52292842152b1754ba1d",
-    "url": "/planets-starwars/static/css/main.63b6b875.chunk.css"
+    "revision": "53c61332053eb20af80b",
+    "url": "/planets-starwars/static/css/main.f51b3d16.chunk.css"
   },
   {
     "revision": "ef38d8f5870e732b9050",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/planets-starwars/static/js/2.5e9157c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52292842152b1754ba1d",
-    "url": "/planets-starwars/static/js/main.c3423621.chunk.js"
+    "revision": "53c61332053eb20af80b",
+    "url": "/planets-starwars/static/js/main.c9e1480d.chunk.js"
   },
   {
     "revision": "5c4c56f7d17462ee5653",
@@ -166,6 +166,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8569ca3ca1683765fa6f613aa0b307a3",
     "url": "/planets-starwars/static/media/Shmi Skywalker.8569ca3c.jpg"
+  },
+  {
+    "revision": "3f6b5071c007f2e0cbf4afa85ec2f561",
+    "url": "/planets-starwars/static/media/StarWars1.3f6b5071.jpg"
+  },
+  {
+    "revision": "8f4f5d3e38d6fbf3960d5fb45df7557f",
+    "url": "/planets-starwars/static/media/StarWars2.8f4f5d3e.jpg"
+  },
+  {
+    "revision": "8f9d5c0a25671e434e0c1431bfe93e1c",
+    "url": "/planets-starwars/static/media/StarWars3.8f9d5c0a.jpg"
+  },
+  {
+    "revision": "379614e677e364ec410314eea5792add",
+    "url": "/planets-starwars/static/media/StarWars4.379614e6.jpg"
+  },
+  {
+    "revision": "08455f195aa453662ee2003f8001e3e3",
+    "url": "/planets-starwars/static/media/StarWars5.08455f19.jpg"
+  },
+  {
+    "revision": "f0a082ab73abd6d92245bbfd17c47115",
+    "url": "/planets-starwars/static/media/StarWars6.f0a082ab.jpg"
   },
   {
     "revision": "cc3019aa6439ef893839b8a0d6d0391d",

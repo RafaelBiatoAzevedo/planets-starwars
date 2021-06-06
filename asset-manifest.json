@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/planets-starwars/static/css/main.63b6b875.chunk.css",
-    "main.js": "/planets-starwars/static/js/main.c3423621.chunk.js",
-    "main.js.map": "/planets-starwars/static/js/main.c3423621.chunk.js.map",
+    "main.css": "/planets-starwars/static/css/main.f51b3d16.chunk.css",
+    "main.js": "/planets-starwars/static/js/main.c9e1480d.chunk.js",
+    "main.js.map": "/planets-starwars/static/js/main.c9e1480d.chunk.js.map",
     "runtime-main.js": "/planets-starwars/static/js/runtime-main.2bdad7b3.js",
     "runtime-main.js.map": "/planets-starwars/static/js/runtime-main.2bdad7b3.js.map",
     "static/js/2.5e9157c7.chunk.js": "/planets-starwars/static/js/2.5e9157c7.chunk.js",
     "static/js/2.5e9157c7.chunk.js.map": "/planets-starwars/static/js/2.5e9157c7.chunk.js.map",
     "index.html": "/planets-starwars/index.html",
-    "precache-manifest.62c84cb3afafd3fc11d363db53ab0c62.js": "/planets-starwars/precache-manifest.62c84cb3afafd3fc11d363db53ab0c62.js",
+    "precache-manifest.6e196d458380c93a9a5385ae95fd360c.js": "/planets-starwars/precache-manifest.6e196d458380c93a9a5385ae95fd360c.js",
     "service-worker.js": "/planets-starwars/service-worker.js",
-    "static/css/main.63b6b875.chunk.css.map": "/planets-starwars/static/css/main.63b6b875.chunk.css.map",
+    "static/css/main.f51b3d16.chunk.css.map": "/planets-starwars/static/css/main.f51b3d16.chunk.css.map",
     "static/js/2.5e9157c7.chunk.js.LICENSE.txt": "/planets-starwars/static/js/2.5e9157c7.chunk.js.LICENSE.txt",
     "static/media/Adi Gallia.jpg": "/planets-starwars/static/media/Adi Gallia.d890eeba.jpg",
     "static/media/Alderaan.jpg": "/planets-starwars/static/media/Alderaan.9b988761.jpg",
@@ -48,6 +48,12 @@
     "static/media/Roos Tarpals.jpg": "/planets-starwars/static/media/Roos Tarpals.35e73d6e.jpg",
     "static/media/Rugor Nass.jpg": "/planets-starwars/static/media/Rugor Nass.3e7f1877.jpg",
     "static/media/Shmi Skywalker.jpg": "/planets-starwars/static/media/Shmi Skywalker.8569ca3c.jpg",
+    "static/media/StarWars1.jpg": "/planets-starwars/static/media/StarWars1.3f6b5071.jpg",
+    "static/media/StarWars2.jpg": "/planets-starwars/static/media/StarWars2.8f4f5d3e.jpg",
+    "static/media/StarWars3.jpg": "/planets-starwars/static/media/StarWars3.8f9d5c0a.jpg",
+    "static/media/StarWars4.jpg": "/planets-starwars/static/media/StarWars4.379614e6.jpg",
+    "static/media/StarWars5.jpg": "/planets-starwars/static/media/StarWars5.08455f19.jpg",
+    "static/media/StarWars6.jpg": "/planets-starwars/static/media/StarWars6.f0a082ab.jpg",
     "static/media/Tatooine.jpg": "/planets-starwars/static/media/Tatooine.3840e6c8.jpg",
     "static/media/Taun We.jpg": "/planets-starwars/static/media/Taun We.fbcd0085.jpg",
     "static/media/Wicket Systri Warrick.jpg": "/planets-starwars/static/media/Wicket Systri Warrick.2b9e06eb.jpg",
@@ -57,7 +63,7 @@
   "entrypoints": [
     "static/js/runtime-main.2bdad7b3.js",
     "static/js/2.5e9157c7.chunk.js",
-    "static/css/main.63b6b875.chunk.css",
-    "static/js/main.c3423621.chunk.js"
+    "static/css/main.f51b3d16.chunk.css",
+    "static/js/main.c9e1480d.chunk.js"
   ]
 }
